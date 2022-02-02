@@ -1,0 +1,8 @@
+
+.card {
+    border: 2px solid red;
+    color: blue;
+    width: 100px;
+    height: 200px;
+    background-color: aqua;
+}
